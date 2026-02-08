@@ -5,6 +5,8 @@ This repository showcases an AI-assisted QA workflow that converts Jira user sto
 The goal of this project is to reduce repetitive manual work for QA engineers while keeping test cases consistent, traceable, and reviewable.
 
 ![alt text](image.png)
+![alt text](case-from-n8n.jpg)
+![alt text](jira-story-n8n.jpg)
 
 ---
 
