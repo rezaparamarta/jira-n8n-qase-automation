@@ -1,5 +1,9 @@
 # Jira to Qase Test Case Automation (AI-assisted)
 
+---
+https://rparamarta7.app.n8n.cloud/workflow/z1FNyGWM_wiViugLZN32B?projectId=ZNQztkb1BhCCFyM3
+---
+
 This repository showcases an AI-assisted QA workflow that converts Jira user stories into structured test cases in Qase.io using n8n.
 
 The goal of this project is to reduce repetitive manual work for QA engineers while keeping test cases consistent, traceable, and reviewable.
