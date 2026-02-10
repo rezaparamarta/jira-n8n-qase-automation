@@ -11,6 +11,7 @@ The goal of this project is to reduce repetitive manual work for QA engineers wh
 ![alt text](image.png)
 ![alt text](case-from-n8n.jpg)
 ![alt text](jira-story-n8n.jpg)
+<img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/f11a197a-2c07-4a22-a9cd-9f982af30422" />
 
 ---
 
