@@ -106,6 +106,7 @@ AI assists the QA engineer, but test ownership remains human.
 
 ---
 
+```json
 {
   "name": "jira-to-qase-workflow",
   "nodes": [
@@ -358,7 +359,7 @@ AI assists the QA engineer, but test ownership remains human.
   "id": "z1FNyGWM_wiViugLZN32B",
   "tags": []
 }
-
+```
 ---
 ## Author
 
