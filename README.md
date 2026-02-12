@@ -364,4 +364,4 @@ AI assists the QA engineer, but test ownership remains human.
 ## Author
 
 Reza Paramarta  
-QA Engineer
+TestOps Engineer | Software Developement In Test
